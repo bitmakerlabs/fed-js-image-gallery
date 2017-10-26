@@ -1,4 +1,4 @@
-#Image Gallery
+# Image Gallery
 
 Create an `<img>` `#gallery` using the assets provided. When a user `click`s on one of the `.thumb` images, override the `src` of the default `#main` image with the `src` of the image that was clicked.
 
